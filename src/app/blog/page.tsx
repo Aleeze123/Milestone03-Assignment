@@ -19,7 +19,7 @@ const posts: Post[] = [
     id: '1',
     title: 'The Future of Web Development',
     summary: 'Exploring the latest trends in web development and what to expect in the coming years.',
-    image: '/first.jpeg' ,
+    image: '/future.jpeg' ,
   },
   {
     id: '2',
@@ -31,7 +31,7 @@ const posts: Post[] = [
     id: '3',
     title: 'Node.js for Backend Development',
     summary: 'Learn why Node.js is a powerful choice for backend development.',
-    image: '/ai.jpeg',
+    image: '/first.jpeg',
   },
   {
     id: '4',
